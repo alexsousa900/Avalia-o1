@@ -1,0 +1,32 @@
+Questão-Problema 01: Cadastro de Aluno
+
+    Variáveis necessárias:
+        nomeCompleto (alexsousadovale)
+        idade (15)
+        altura (1.67)
+        estaMatriculado (verdadeiro)
+
+    Variável adicional sugerida:
+        número de matrícula (tipo: inteiro ou string, dependendo do formato)
+
+Questão-Problema 02: Informações de Produto
+
+    Variáveis necessárias:
+        nomeProduto (miojo)
+        quantidadeEstoque (1000)
+        precoUnitario (8.00)
+        disponivelParaVenda (sim)
+
+    Variável adicional sugerida:
+        categoria do produto (tipo: string)
+
+Questão-Problema 03: Dados de um Evento
+
+    Variáveis necessárias:
+        nomeEvento (festival de comida)
+        numParticipantes (10000)
+        precoIngresso (45.00)
+        eventoPresencial (sim)
+
+    Variável adicional sugerida:
+        data do evento (tipo: data ou string no formato de data)
