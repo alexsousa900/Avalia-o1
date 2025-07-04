@@ -1,0 +1,27 @@
+Questão 01 - Qual das alternativas descreve corretamente uma característica de uma linguagem de baixo nível?
+Resposta: c) Oferece maior controle sobre o hardware, mas é mais difícil de programar.
+Linguagens de baixo nível, como Assembly, dão mais controle do hardware, mas são mais complexas de aprender e usar.
+
+Questão 02 - Assinale a alternativa que apresenta apenas linguagens de alto nível:
+Resposta: b) C, Java e Python
+Essas linguagens são consideradas de alto nível, mais próximas da linguagem humana e mais fáceis de programar.
+
+Questão 03 - Qual das alternativas representa uma característica de um algoritmo compilado?
+Resposta: a) É traduzido para código de máquina antes de ser executado.
+Algoritmos compilados passam por uma tradução para código de máquina antes de rodar.
+
+Questão 04 - Qual é a principal vantagem de programas interpretados?
+Resposta: b) Podem ser executados imediatamente sem uma etapa de compilação.
+Programas interpretados, como Python, podem ser executados direto, sem precisar de compilação prévia.
+
+Questão 05 - O que acontece no processo de execução de um programa em Java?
+Resposta: c) O código é compilado para bytecode e, em seguida, interpretado pela JVM.
+Java compila para bytecode, que é interpretado pela JVM na hora de rodar.
+
+Questão 06 - Qual é a principal finalidade de um algoritmo?
+Resposta: b) Definir passos lógicos para solucionar um problema.
+Algoritmos são conjuntos de passos bem definidos para resolver questões específicas.
+
+Questão 07 - O que é lógica de programação?
+Resposta: c) A habilidade de organizar e estruturar pensamentos para resolver problemas de forma lógica e eficiente.
+Lógica de programação envolve pensar de forma estruturada para criar soluções eficientes.
