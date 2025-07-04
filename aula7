@@ -1,0 +1,20 @@
+public class ExemploWrapper {
+    public static void main(String[] args) {
+        String numeroInteiro = "42";
+        String numeroDecimal = "3.14";
+        String caractere = "7";
+
+        // Convertendo String para Integer
+        int valorInteiro = Integer.parseInt(numeroInteiro);
+        System.out.println("Inteiro convertido: " + valorInteiro);
+
+        // Convertendo String para Double
+        double valorDouble = Double.parseDouble(numeroDecimal);
+        System.out.println("Double convertido: " + valorDouble);
+
+        // Verificando se o caractere é dígito
+        char ch = caractere.charAt(0);
+        boolean ehDigito = Character.isDigit(ch);
+        System.out.println("O caractere '" + ch + "' é dígito? " + ehDigito);
+    }
+}
