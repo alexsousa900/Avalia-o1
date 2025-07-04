@@ -1,0 +1,20 @@
+public class DescontoProduto {
+    public static void main(String[] args) {
+        boolean produtoComDesconto = true; // ou false, dependendo do produto
+        boolean clienteComCupomValido = false; // ou true, dependendo do cliente
+
+        boolean descontoAplicado = produtoComDesconto || clienteComCupomValido;
+
+        System.out.println("Desconto aplicado: " + descontoAplicado);
+    }
+} 
+public class AutorizacaoCompra {
+    public static void main(String[] args) {
+        boolean saldoSuficiente = true; // ou false
+        boolean contaVerificada = true; // ou false
+
+        boolean compraAutorizada = saldoSuficiente && contaVerificada;
+
+        System.out.println("Compra autorizada: " + compraAutorizada);
+    }
+}
