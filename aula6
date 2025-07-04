@@ -1,0 +1,37 @@
+Questão 01: Cálculo de Nota Final
+Você deve criar um programa que leia duas notas, calcule a média e verifique se ela é maior ou igual a 7.0.
+
+    Use uma constante
+    MEDIA_APROVACAO = 7.0
+    .
+    Após calcular a média, exiba
+    "Aprovado: true"
+    se a média for >= 7.0, ou
+    "Aprovado: false"
+    caso contrário.
+
+Questão 02: Verificação de Compra
+Neste programa, você declara variáveis para o preço do produto e o dinheiro disponível do cliente, além de uma constante
+TAXA_DESCONTO = 0.10
+.
+
+    Calcule o preço final com o desconto.
+    Verifique se o cliente tem dinheiro suficiente para comprar o produto com desconto.
+    Exiba
+    "Compra permitida: true"
+    se puder comprar, ou
+    "Compra permitida: false"
+    se não.
+
+Questão 03: Triagem para Doação de Sangue
+Aqui, você precisa verificar se uma pessoa é elegível para doar sangue, considerando idade e peso.
+
+    Declare variáveis para idade e peso, e uma constante
+    PESO_MINIMO = 50
+    .
+    A pessoa deve ter 18 anos ou mais e pesar pelo menos 50 kg.
+    Exiba
+    "Apto para doar: true"
+    se ambos os critérios forem atendidos, ou
+    "Apto para doar: false"
+    caso contrário.
